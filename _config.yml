@@ -1,14 +1,29 @@
+name: tinygarden
+favicon: null
 layout_spectrum: 0.5268528
+typography_spectrum: 0.3839957
+title: Tiny Garden
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5257788
-  lightness: 0.7577873
-  brandStrength: 0.8619764
   brandColors:
     - '#91533A'
     - '#302728'
     - '#CFCFCF'
     - '#D8C642'
     - '#88A39B'
+  brandStrength: 0.8619764
+  lightness: 0.7577873
+  saturation: 0.5257788
   rhythmicContrast: 0.3549946
-typography_spectrum: 0.3839957
-name: tinygarden
+purpose: []
